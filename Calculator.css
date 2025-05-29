@@ -48,3 +48,11 @@ button {
 button:hover {
   background-color: #444;
 }
+
+#delete {
+  background-color: #ff9500;
+}
+
+#delete:hover {
+  background-color: #e57d00;
+}
